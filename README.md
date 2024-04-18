@@ -2,5 +2,5 @@
 
 # Instructions:
 Press Space bar to launch the ball.   
-Use left and right key to control the paddle.
+Use Left and Right key to control the paddle.
  
